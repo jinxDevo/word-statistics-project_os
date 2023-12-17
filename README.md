@@ -12,7 +12,7 @@
 
 ## video recorderd  
 
-    ![record video.mp4](record video.mp4)
+    ![record video.mp4](recorded video.mp4)
 
 
 
